@@ -3,10 +3,10 @@
 Neo4j movie app được xây dựng dựa trên data từ IMDB.
 
 Source:
-http://www.omdbapi.com/
-https://grouplens.org/datasets/movielens/
+[OMDB Api](http://www.omdbapi.com/)
+[grouplens.org](https://grouplens.org/datasets/movielens/)
 Tổng hợp tại:
-https://github.com/neo4j-graph-examples/recommendations/tree/main/data
+[neo4j-graph-examples](https://github.com/neo4j-graph-examples/recommendations/tree/main/data)
 
 Backend được xây trên Node JS Express API, giao diện từ template Swagger. Thư mục `/api`.
 Frontend được xây dựng trên React JS tại thư mục `/web`.
