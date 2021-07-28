@@ -8,8 +8,8 @@ https://grouplens.org/datasets/movielens/
 Tổng hợp tại:
 https://github.com/neo4j-graph-examples/recommendations/tree/main/data
 
-Backend được xây trên JavaScript/Express backend tại thư mục `/api`.
-Frontend được xây dựng tại thư mục `/web`.
+Backend được xây trên Node JS Express API, giao diện từ template Swagger. Thư mục `/api`.
+Frontend được xây dựng trên React JS tại thư mục `/web`.
 Feel encouraged to fork and update this repo!
 
 ### Nodes
@@ -28,7 +28,7 @@ Sau đó gọi các lệnh:
 - `nvm use`
 - `npm install`
 - `node app.js` Bắt đầu API
-- [http://localhost:3000/docs]
+- [http://localhost:3000/docs](http://localhost:3000/docs)
 
 ## Frontend
 
@@ -38,5 +38,5 @@ Gọi các lệnh:
 - `nvm use`
 - `npm install`
 - configure `web/.env`
-
-- `npm start` [http://localhost:3000/](http://localhost:3000/)
+- Sau đó chọn Y để chuyển tên miền 3000 -> 3001
+- `npm start` [http://localhost:3001/](http://localhost:3001/)
