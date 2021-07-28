@@ -13,7 +13,6 @@ Tổng hợp tại:
 
 Backend được xây trên Node JS Express API, giao diện từ template Swagger. Thư mục `/api`.
 Frontend được xây dựng trên React JS tại thư mục `/web`.
-Feel encouraged to fork and update this repo!
 
 ### Nodes
 
