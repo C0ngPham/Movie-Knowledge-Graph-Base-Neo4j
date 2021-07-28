@@ -6,7 +6,9 @@ Source:
 
 - [OMDB Api](http://www.omdbapi.com/)
 - [grouplens.org](https://grouplens.org/datasets/movielens/)
-  Tổng hợp tại:
+
+Tổng hợp tại:
+
 - [neo4j-graph-examples](https://github.com/neo4j-graph-examples/recommendations/tree/main/data)
 
 Backend được xây trên Node JS Express API, giao diện từ template Swagger. Thư mục `/api`.
